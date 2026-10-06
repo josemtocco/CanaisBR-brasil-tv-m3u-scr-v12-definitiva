@@ -1,0 +1,216 @@
+emissora_id,emissora,estado,cidade,tipo,score,nome_iptv_org,tvg_id,host,url
+universitaria-tv-ifap-ap-macapa,TV IFAP,AP,Macapá,universitaria,82,FIFA+ Portuguese (720p),FIFAPlus.uk@Portuguese,e3be9ac5.wurl.com,https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+scr-brasileia-ac-1200104,Brasiléia,Acre,1200104,retransmissora,88,RecordTV Brasilia (720p) [Geo-blocked],RecordTVBrasilia.br@SD,playplusbsa-lh.akamaihd.net,https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+scr-jundia-al-2703908,Jundiá,Alagoas,2703908,retransmissora,88,Canal 25 Jundiai (720p),Canal25Jundiai.br@SD,cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co,https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8
+scr-maceio-al-2704302,Maceió,Alagoas,2704302,comercial_publica_educativa,88,TVCOM Maceio (480p),TVCOMMaceio.br@SD,srv5.zcast.com.br,https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+scr-macapa-ap-1600303,Macapá,Amapá,1600303,comercial_publica_educativa,88,TV Diario Macapa (1080p) [Not 24/7],TVDiarioMacapa.br@SD,5ad482a77183d.streamlock.net,https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8
+scr-apui-am-1300144,Apuí,Amazonas,1300144,retransmissora,88,Adrenalina Pura TV Brazil,AdrenalinaPuraTV.us@Brazil,jmp2.uk,https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
+scr-apui-am-1300144,Apuí,Amazonas,1300144,retransmissora,88,TV Arapuan (720p),TVArapuan.br@SD,5b7f3c45ab7c2.streamlock.net,https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+scr-maraa-am-1302801,Maraã,Amazonas,1302801,retransmissora,88,TV Camara (Brazil) (1080p),TVCamara.br@SD,stream3.camara.gov.br,https://stream3.camara.gov.br/tv1/manifest.m3u8
+scr-maraa-am-1302801,Maraã,Amazonas,1302801,retransmissora,88,TV Camara 2 (1080p) [Not 24/7],TVCamara2.br@SD,stream3.camara.gov.br,https://stream3.camara.gov.br/tv2/manifest.m3u8
+scr-maraa-am-1302801,Maraã,Amazonas,1302801,retransmissora,88,TV Camara Salvador (288p) [Not 24/7],TVCamaraSalvador.br@SD,596639ebdd89b.streamlock.net,https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8
+scr-maraa-am-1302801,Maraã,Amazonas,1302801,retransmissora,88,TV Marajoara (720p),TVMarajoara.br@SD,tv02.zas.media:1936,https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+scr-apora-ba-2901908,Aporá,Bahia,2901908,retransmissora,88,FIFA+ Portuguese (720p),FIFAPlus.uk@Portuguese,e3be9ac5.wurl.com,https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+scr-caem-ba-2905107,Caém,Bahia,2905107,retransmissora,88,TV Camara (Brazil) (1080p),TVCamara.br@SD,stream3.camara.gov.br,https://stream3.camara.gov.br/tv1/manifest.m3u8
+scr-caem-ba-2905107,Caém,Bahia,2905107,retransmissora,88,TV Camara 2 (1080p) [Not 24/7],TVCamara2.br@SD,stream3.camara.gov.br,https://stream3.camara.gov.br/tv2/manifest.m3u8
+scr-caem-ba-2905107,Caém,Bahia,2905107,retransmissora,88,TV Camara Salvador (288p) [Not 24/7],TVCamaraSalvador.br@SD,596639ebdd89b.streamlock.net,https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8
+scr-central-ba-2907608,Central,Bahia,2907608,retransmissora,88,Comedy Central Pluto TV BR,ComedyCentralPlutoTV.us@BR,jmp2.uk,https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
+scr-central-ba-2907608,Central,Bahia,2907608,retransmissora,88,Comedy Central South Park,ComedyCentralSouthPark.us@BR,jmp2.uk,https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
+scr-iacu-ba-2911907,Iaçu,Bahia,2911907,retransmissora,88,Pluto TV Cine Comedia (United States) BR,PlutoTVCineComedia.us@BR,jmp2.uk,https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
+scr-iacu-ba-2911907,Iaçu,Bahia,2911907,retransmissora,88,Pluto TV Historia (United States),PlutoTVHistoria.us@BR,jmp2.uk,https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8
+scr-iacu-ba-2911907,Iaçu,Bahia,2911907,retransmissora,88,TV Assembleia Piaui,TVAssembleiaPiaui.br@SD,stmv1.srvstm.com,https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
+scr-itape-ba-2916203,Itapé,Bahia,2916203,retransmissora,88,RecordTV Itapoan (720p) [Geo-blocked],RecordTVItapoan.br@SD,playplussdr-lh.akamaihd.net,https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+scr-itape-ba-2916203,Itapé,Bahia,2916203,retransmissora,88,TVitape (720p),TVitape.br@SD,stream01.msolutionbrasil.com.br,https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+scr-itapetinga-ba-2916401,Itapetinga,Bahia,2916401,digital_geradora,82,TV+Pet,TVPlusPet.br@SD,stmv5.samcast.com.br,https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+scr-itiuba-ba-2917003,Itiúba,Bahia,2917003,retransmissora,88,TV 3 Curitiba,TV3Curitiba.br@SD,stmv.webtvninjas.com.br,https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
+scr-marau-ba-2920700,Maraú,Bahia,2920700,retransmissora,88,TV Camara (Brazil) (1080p),TVCamara.br@SD,stream3.camara.gov.br,https://stream3.camara.gov.br/tv1/manifest.m3u8
+scr-marau-ba-2920700,Maraú,Bahia,2920700,retransmissora,88,TV Camara 2 (1080p) [Not 24/7],TVCamara2.br@SD,stream3.camara.gov.br,https://stream3.camara.gov.br/tv2/manifest.m3u8
+scr-marau-ba-2920700,Maraú,Bahia,2920700,retransmissora,88,TV Camara Salvador (288p) [Not 24/7],TVCamaraSalvador.br@SD,596639ebdd89b.streamlock.net,https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8
+scr-marau-ba-2920700,Maraú,Bahia,2920700,retransmissora,88,TV Marajoara (720p),TVMarajoara.br@SD,tv02.zas.media:1936,https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+scr-salvador-ba-2927408,Salvador,Bahia,2927408,comercial_publica_educativa,88,Rede CNT Salvador (576i),RedeCNTSalvador.br@SD,168.205.87.198:8555,http://168.205.87.198:8555/live/1368/123456/150.m3u8
+scr-salvador-ba-2927408,Salvador,Bahia,2927408,comercial_publica_educativa,88,TV Camara Salvador (288p) [Not 24/7],TVCamaraSalvador.br@SD,596639ebdd89b.streamlock.net,https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8
+scr-una-ba-2932507,Una,Bahia,2932507,retransmissora,88,Araruna TV,ArarunaTV.br@SD,video05.logicahost.com.br,https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+scr-ico-ce-2305407,Icó,Ceará,2305407,retransmissora,88,A&E Latin America Brazil (720p),AELatinAmerica.us@Brazil,170.83.16.50,http://170.83.16.50/AeE/index.m3u8
+scr-ico-ce-2305407,Icó,Ceará,2305407,retransmissora,88,AMC Latin America Brazil (720p),AMCLatinAmerica.us@Brazil,170.83.49.66:8083,http://170.83.49.66:8083/AMCHD/index.m3u8
+scr-ico-ce-2305407,Icó,Ceará,2305407,retransmissora,88,Adult Swim Latin America Brazil (720p),AdultSwimLatinAmerica.us@Brazil,168.197.104.22,http://168.197.104.22/ADULT_SWIM/index.m3u8
+scr-ico-ce-2305407,Icó,Ceará,2305407,retransmissora,88,Canal Metropolitano de Noticias,CanalMetropolitanodeNoticias.br@SD,stmv5.samcast.com.br,https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+scr-ico-ce-2305407,Icó,Ceará,2305407,retransmissora,88,Canal Ricos (480p),CanalRicos.br@SD,5d82644094cc0.streamlock.net,https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
+scr-ico-ce-2305407,Icó,Ceará,2305407,retransmissora,88,Detetives Medicos,DetetivesMedicos.us@BR,jmp2.uk,https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
+scr-ico-ce-2305407,Icó,Ceará,2305407,retransmissora,88,History 2 Latin America Brazil (720p),History2LatinAmerica.us@Brazil,45.177.114.114,http://45.177.114.114/HISTORY_2/index.m3u8
+scr-ico-ce-2305407,Icó,Ceará,2305407,retransmissora,88,Lifetime Latin America Brazil (720p),LifetimeLatinAmerica.us@Brazil,170.83.16.50,http://170.83.16.50/LIFETIME/index.m3u8
+scr-ico-ce-2305407,Icó,Ceará,2305407,retransmissora,88,MTV Classic BR (720p),MTVClassic.us@BR,jmp2.uk,https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+scr-ico-ce-2305407,Icó,Ceará,2305407,retransmissora,88,Music Box Brazil (720p),MusicBoxBrazil.br@SD,168.197.104.22,http://168.197.104.22/MUSIC/index.m3u8
+scr-milha-ce-2308351,Milhã,Ceará,2308351,retransmissora_digital,88,Show do Milhao (1080p) [Geo-blocked],ShowdoMilhao.br@SD,d38s7rrdbnh4oy.cloudfront.net,https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8
+scr-oros-ce-2309508,Orós,Ceará,2309508,retransmissora,88,Pluto TV Karaoke por Stingray (720p),PlutoTVKaraokeporStingray.us@BR,jmp2.uk,https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
+scr-oros-ce-2309508,Orós,Ceará,2309508,retransmissora,88,Pluto TV Paisagens por Stingray (720p),PlutoTVPaisagensporStingray.us@BR,jmp2.uk,https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
+scr-oros-ce-2309508,Orós,Ceará,2309508,retransmissora,88,Pluto TV Shows por Stingray (720p),PlutoTVShowsporStingray.us@BR,jmp2.uk,https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
+scr-oros-ce-2309508,Orós,Ceará,2309508,retransmissora,88,RecordTV Interior SP,RecordTVInteriorSP.br@SD,200.77.176.130:8000,http://200.77.176.130:8000/udp/224.0.0.4:49152
+publica-tv-brasil-df-brasilia,TV Brasil,DF,Brasília,publica,88,ConecTV Brasil (720p),ConecTVBrasil.br@SD,stream01.msolutionbrasil.com.br,https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+publica-tv-brasil-df-brasilia,TV Brasil,DF,Brasília,publica,88,RCTV Brasil,RCTVBrasil.br@SD,stmv.webtvninjas.com.br,https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8
+publica-tv-brasil-df-brasilia,TV Brasil,DF,Brasília,publica,88,RecordTV Brasilia (720p) [Geo-blocked],RecordTVBrasilia.br@SD,playplusbsa-lh.akamaihd.net,https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+publica-tv-brasil-df-brasilia,TV Brasil,DF,Brasília,publica,88,TV Brasil (720p),TVBrasil.br@SD,45.162.64.114,http://45.162.64.114/TV_BRASIL/index.m3u8
+publica-tv-brasil-df-brasilia,TV Brasil,DF,Brasília,publica,88,TV Brasil Oeste (720p),TVBrasilOeste.br@SD,5ad482a77183d.streamlock.net,https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+publica-tv-brasil-df-brasilia,TV Brasil,DF,Brasília,publica,88,TV GRANDE NATAL HDTV BRASIL (1080p),TVGRANDENATALHDTVBRASIL.br@SD,tvgrandenatalhd.duckdns.org:8080,http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+publica-tv-brasil-df-brasilia,TV Brasil,DF,Brasília,publica,82,AgroBrasil TV (720p) [Not 24/7],AgroBrasilTV.br@SD,45.162.230.234:1935,http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+publica-tv-brasil-df-brasilia,TV Brasil,DF,Brasília,publica,82,COM Brasil (720p),COMBrasil.br@SD,dfr80qz435crc.cloudfront.net,https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+publica-tv-brasil-df-brasilia,TV Brasil,DF,Brasília,publica,82,MBC Brasil TV,MBCBrasilTV.br@SD,play.mbcbrasil.tv.br,https://play.mbcbrasil.tv.br/playlist.m3u8
+publica-tv-brasil-df-brasilia,TV Brasil,DF,Brasília,publica,82,Rede Brasil (1080p),RedeBrasil.br@SD,redebrasil.nuvemplay.live,https://redebrasil.nuvemplay.live/hls/stream.m3u8
+legislativa-federal-tv-senado-df-brasilia,TV Senado,DF,Brasília,legislativa_federal,88,TV Senado (Brazil) (720p),TVSenado.br@SD,45.162.64.114,http://45.162.64.114/TV_SENADO/index.m3u8
+scr-alegre-es-3200201,Alegre,Espírito Santo,3200201,digital_geradora,88,UniTV Porto Alegre (480p),UniTVPortoAlegre.br@SD,unitvaovivo.ufrgs.br:8080,http://unitvaovivo.ufrgs.br:8080/live.ogg
+scr-iuna-es-3203007,Iúna,Espírito Santo,3203007,retransmissora,88,A&E Latin America Brazil (720p),AELatinAmerica.us@Brazil,170.83.16.50,http://170.83.16.50/AeE/index.m3u8
+scr-iuna-es-3203007,Iúna,Espírito Santo,3203007,retransmissora,88,AMC Latin America Brazil (720p),AMCLatinAmerica.us@Brazil,170.83.49.66:8083,http://170.83.49.66:8083/AMCHD/index.m3u8
+scr-iuna-es-3203007,Iúna,Espírito Santo,3203007,retransmissora,88,Adrenalina Pura TV Brazil,AdrenalinaPuraTV.us@Brazil,jmp2.uk,https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
+scr-iuna-es-3203007,Iúna,Espírito Santo,3203007,retransmissora,88,Adult Swim Latin America Brazil (720p),AdultSwimLatinAmerica.us@Brazil,168.197.104.22,http://168.197.104.22/ADULT_SWIM/index.m3u8
+scr-iuna-es-3203007,Iúna,Espírito Santo,3203007,retransmissora,88,History 2 Latin America Brazil (720p),History2LatinAmerica.us@Brazil,45.177.114.114,http://45.177.114.114/HISTORY_2/index.m3u8
+scr-iuna-es-3203007,Iúna,Espírito Santo,3203007,retransmissora,88,Lifetime Latin America Brazil (720p),LifetimeLatinAmerica.us@Brazil,170.83.16.50,http://170.83.16.50/LIFETIME/index.m3u8
+scr-iuna-es-3203007,Iúna,Espírito Santo,3203007,retransmissora,88,Pluto TV Series Criminais,PlutoTVSeriesCriminais.us@BR,jmp2.uk,https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
+scr-iuna-es-3203007,Iúna,Espírito Santo,3203007,retransmissora,88,Rede Minas (720p),RedeMinas.br@SD,8hzcavccys.zoeweb.tv,https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+scr-iuna-es-3203007,Iúna,Espírito Santo,3203007,retransmissora,88,Studio Universal Latin America Brazil (720p),StudioUniversalLatinAmerica.us@Brazil,187.102.210.46,http://187.102.210.46/universo/index.m3u8
+scr-iuna-es-3203007,Iúna,Espírito Santo,3203007,retransmissora,88,TV Sul de Minas (720p),TVSuldeMinas.br@SD,5cf4a2c2512a2.streamlock.net,https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+universitaria-tv-ufg-go-goiania,TV UFG,GO,Goiânia,universitaria,88,TV UFG (720p) [Not 24/7],TVUFG.br@SD,flash.softhost.com.br:1935,http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+scr-apore-go-5201504,Aporé,Goiás,5201504,retransmissora,88,FIFA+ Portuguese (720p),FIFAPlus.uk@Portuguese,e3be9ac5.wurl.com,https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+scr-edeia-go-5207402,Edéia,Goiás,5207402,retransmissora,88,Pluto TV Cine Comedia (United States) BR,PlutoTVCineComedia.us@BR,jmp2.uk,https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
+scr-edeia-go-5207402,Edéia,Goiás,5207402,retransmissora,88,Pluto TV Cine Comedia Romantica,PlutoTVCineComediaRomantica.us@BR,jmp2.uk,https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
+scr-edeia-go-5207402,Edéia,Goiás,5207402,retransmissora,88,Pluto TV Series Comedia,PlutoTVSeriesComedia.us@BR,jmp2.uk,https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
+scr-parauna-go-5216403,Paraúna,Goiás,5216403,retransmissora,88,RedeTV! Parana,RedeTVParana.br@SD,tv01.zas.media:1936,https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+scr-parauna-go-5216403,Paraúna,Goiás,5216403,retransmissora,88,TV Parana Turismo (720p) [Not 24/7],TVParanaTurismo.br@SD,200.189.113.201,http://200.189.113.201/hls/tve.m3u8
+scr-petrolina-de-goias-go-5216809,Petrolina de Goiás,Goiás,5216809,retransmissora,82,TV+Pet,TVPlusPet.br@SD,stmv5.samcast.com.br,https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+universitaria-tv-ufop-mg-ouro-preto,TV UFOP,MG,Ouro Preto,universitaria,88,TV UFOP (1080p),TVUFOP.br@HD,app.tvufop.com.br,https://app.tvufop.com.br/hls/tvufop.m3u8
+scr-cuiaba-mt-5103403,Cuiabá,Mato Grosso,5103403,comercial_publica_educativa,88,SBT Cuiaba,SBTCuiaba.br@SD,video09.logicahost.com.br,https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
+scr-cuiaba-mt-5103403,Cuiabá,Mato Grosso,5103403,comercial_publica_educativa,88,TV Cidade Verde Cuiaba,TVCidadeVerdeCuiaba.br@SD,televisaocidadeverde.brasilstream.com.br,https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+scr-nova-mutum-mt-5106224,Nova Mutum,Mato Grosso,5106224,digital_geradora,88,SBT Nova Mutum,SBTNovaMutum.br@SD,video09.logicahost.com.br,https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+scr-arapua-mg-3103801,Arapuá,Minas Gerais,3103801,retransmissora,88,TV Arapuan (720p),TVArapuan.br@SD,5b7f3c45ab7c2.streamlock.net,https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+scr-canaa-mg-3111705,Canaã,Minas Gerais,3111705,retransmissora,88,AgroCanal (720p),AgroCanal.br@SD,45.162.64.114,http://45.162.64.114/AGRO_CANAL/index.m3u8
+scr-canaa-mg-3111705,Canaã,Minas Gerais,3111705,retransmissora,88,Canal 25 Jundiai (720p),Canal25Jundiai.br@SD,cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co,https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8
+scr-canaa-mg-3111705,Canaã,Minas Gerais,3111705,retransmissora,88,Canal 38 (720p),Canal38.br@SD,cdn.jmvstream.com,https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+scr-canaa-mg-3111705,Canaã,Minas Gerais,3111705,retransmissora,88,Canal Educacao (720p),CanalEducacao.br@SD,45.162.64.114,http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
+scr-canaa-mg-3111705,Canaã,Minas Gerais,3111705,retransmissora,88,Canal FDR,CanalFDR.br@SD,v-us-01.wisestream.io,https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+scr-canaa-mg-3111705,Canaã,Minas Gerais,3111705,retransmissora,88,Canal Futura (720p),CanalFutura.br@SD,45.162.64.114,http://45.162.64.114/FUTURA/index.m3u8
+scr-canaa-mg-3111705,Canaã,Minas Gerais,3111705,retransmissora,88,Canal Gov (720p),CanalGov.br@SD,45.177.114.115,http://45.177.114.115/TV_BRASIL_2/index.m3u8
+scr-canaa-mg-3111705,Canaã,Minas Gerais,3111705,retransmissora,88,Canal Libras (720p),CanalLibras.br@SD,canallibras-stream.ebc.com.br,https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+scr-canaa-mg-3111705,Canaã,Minas Gerais,3111705,retransmissora,88,Canal Metropolitano de Noticias,CanalMetropolitanodeNoticias.br@SD,stmv5.samcast.com.br,https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+scr-canaa-mg-3111705,Canaã,Minas Gerais,3111705,retransmissora,88,Canal Off (1080p),CanalOff.br@SD,170.82.202.31,http://170.82.202.31/OFF/index.m3u8
+scr-capetinga-mg-3112406,Capetinga,Minas Gerais,3112406,retransmissora,82,TV+Pet,TVPlusPet.br@SD,stmv5.samcast.com.br,https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+scr-fronteira-mg-3127008,Fronteira,Minas Gerais,3127008,retransmissora,88,TV Fronteira (480i),TVFronteira.br@SD,tvfronteira.brasilstream.com.br,https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
+scr-liberdade-mg-3138500,Liberdade,Minas Gerais,3138500,retransmissora,88,TV Liberdade (720p) [Not 24/7],TVLiberdade.br@SD,srv1.paineldevideo.com,https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
+scr-mutum-mg-3144003,Mutum,Minas Gerais,3144003,retransmissora,88,SBT Nova Mutum,SBTNovaMutum.br@SD,video09.logicahost.com.br,https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+scr-nova-era-mg-3144706,Nova Era,Minas Gerais,3144706,retransmissora,88,Nova Era TV (1080p) [Not 24/7],NovaEraTV.br@SD,wz3.dnip.com.br:1935,http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+scr-piau-mg-3150109,Piau,Minas Gerais,3150109,retransmissora,88,TV Assembleia Piaui,TVAssembleiaPiaui.br@SD,stmv1.srvstm.com,https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
+scr-pirapetinga-mg-3151107,Pirapetinga,Minas Gerais,3151107,retransmissora,82,TV+Pet,TVPlusPet.br@SD,stmv5.samcast.com.br,https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+scr-uba-mg-3169901,Ubá,Minas Gerais,3169901,comercial_publica_educativa,88,Nick Jr. Club (United States) BR (720p),NickJrClub.us@BR,jmp2.uk,https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
+scr-uba-mg-3169901,Ubá,Minas Gerais,3169901,comercial_publica_educativa,88,Pluto TV Kids Club (United States),PlutoTVKidsClub.us@BR,jmp2.uk,https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
+scr-uba-mg-3169901,Ubá,Minas Gerais,3169901,comercial_publica_educativa,88,TV Clube (720p),TVClube.br@SD,5c483b9d1019c.streamlock.net,https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+scr-unai-mg-3170404,Unaí,Minas Gerais,3170404,comercial_publica_educativa,88,Araruna TV,ArarunaTV.br@SD,video05.logicahost.com.br,https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+universitaria-tv-fatec-rio-preto-nao-confirmado-nao-confirmado,TV FATEC Rio Preto,Não confirmado,Não confirmado,universitaria,82,TVC-Rio,TVCRio.br@SD,video05.logicahost.com.br,https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+universitaria-tv-lepete-nao-confirmado-nao-confirmado,TV LEPETE,Não confirmado,Não confirmado,universitaria,82,TV+Pet,TVPlusPet.br@SD,stmv5.samcast.com.br,https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+universitaria-tv-unisul-nao-confirmado-nao-confirmado,TV UNISUL,Não confirmado,Não confirmado,universitaria,82,Unisul TV (720p),UnisulTV.br@SD,sitetv.brasilstream.com.br,https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+universitaria-tv-up-nao-confirmado-nao-confirmado,TV UP,Não confirmado,Não confirmado,universitaria,82,"like Gecko) Chrome/129.0.0.0 Safari/537.36"" group-title=""Undefined"",TV Bahia (1080i)",TVBahia.br@HD,hls1.sua.tv,http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+universitaria-tv-up-nao-confirmado-nao-confirmado,TV UP,Não confirmado,Não confirmado,universitaria,82,"like Gecko) Chrome/149.0.0.0 Safari/537.36"" group-title=""Kids"",Nickelodeon (Brazil) (480p)",Nickelodeon.br@SD,stmv2.srvif.com,https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+universitaria-una-tv-nao-confirmado-nao-confirmado,UNA TV,Não confirmado,Não confirmado,universitaria,88,Araruna TV,ArarunaTV.br@SD,video05.logicahost.com.br,https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+scr-araruna-pr-4101705,Araruna,Paraná,4101705,retransmissora,88,Araruna TV,ArarunaTV.br@SD,video05.logicahost.com.br,https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+scr-curitiba-pr-4106902,Curitiba,Paraná,4106902,comercial_publica_educativa,88,TV 3 Curitiba,TV3Curitiba.br@SD,stmv.webtvninjas.com.br,https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
+scr-guaira-pr-4108809,Guaíra,Paraná,4108809,retransmissora,88,TV Guara (720p) [Not 24/7],TVGuara.br@SD,video02.logicahost.com.br,https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+scr-ivai-pr-4111407,Ivaí,Paraná,4111407,retransmissora,88,TV Alternativa (410p),TVAlternativa.br@SD,stmv5.samcast.com.br,https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+scr-ivai-pr-4111407,Ivaí,Paraná,4111407,retransmissora,88,Terra Viva (720p),TerraViva.br@SD,45.162.64.114,http://45.162.64.114/TERRAVIVA/index.m3u8
+scr-vere-pr-4128609,Verê,Paraná,4128609,retransmissora,88,Cinturao Verde,CinturaoVerde.br@SD,play.redecinturaoverde.com.br,https://play.redecinturaoverde.com.br/playlist.m3u8
+scr-vere-pr-4128609,Verê,Paraná,4128609,retransmissora,88,MacGyver (United States),MacGyver.us@BR,jmp2.uk,https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
+scr-vere-pr-4128609,Verê,Paraná,4128609,retransmissora,88,Petlovers TV,PetloversTV.br@SD,video04.logicahost.com.br,https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+scr-vere-pr-4128609,Verê,Paraná,4128609,retransmissora,88,Studio Universal Latin America Brazil (720p),StudioUniversalLatinAmerica.us@Brazil,187.102.210.46,http://187.102.210.46/universo/index.m3u8
+scr-vere-pr-4128609,Verê,Paraná,4128609,retransmissora,88,TV Cidade Verde Cuiaba,TVCidadeVerdeCuiaba.br@SD,televisaocidadeverde.brasilstream.com.br,https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+scr-vere-pr-4128609,Verê,Paraná,4128609,retransmissora,88,TV Universal (480p),TVUniversal.br@SD,644398c.ha.azioncdn.net,https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+scr-vere-pr-4128609,Verê,Paraná,4128609,retransmissora,88,TVE RS (1080p),TVERS.br@SD,streaming.procergs.com.br:8443,https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+scr-araruna-pb-2501005,Araruna,Paraíba,2501005,retransmissora,88,Araruna TV,ArarunaTV.br@SD,video05.logicahost.com.br,https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+scr-inga-pb-2506806,Ingá,Paraíba,2506806,retransmissora,88,Loading (720p),Loading.br@SD,stmv1.srvif.com,https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+scr-inga-pb-2506806,Ingá,Paraíba,2506806,retransmissora,88,MTV Dating (United States),MTVDating.us@BR,jmp2.uk,https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
+scr-inga-pb-2506806,Ingá,Paraíba,2506806,retransmissora,88,Pluto TV Karaoke por Stingray (720p),PlutoTVKaraokeporStingray.us@BR,jmp2.uk,https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
+scr-inga-pb-2506806,Ingá,Paraíba,2506806,retransmissora,88,Pluto TV Paisagens por Stingray (720p),PlutoTVPaisagensporStingray.us@BR,jmp2.uk,https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
+scr-inga-pb-2506806,Ingá,Paraíba,2506806,retransmissora,88,Pluto TV Shows por Stingray (720p),PlutoTVShowsporStingray.us@BR,jmp2.uk,https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
+scr-mari-pb-2509107,Mari,Paraíba,2509107,retransmissora_digital,88,TV Mais Marica (1080p),TVMaisMarica.br@SD,5cf4a2c2512a2.streamlock.net,https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+scr-curua-pa-1502855,Curuá,Pará,1502855,retransmissora,88,TV Curuca (360p),TVCuruca.br@SD,stmv1.srvif.com,https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+scr-curuca-pa-1502905,Curuçá,Pará,1502905,retransmissora,88,TV Curuca (360p),TVCuruca.br@SD,stmv1.srvif.com,https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+scr-maraba-pa-1504208,Marabá,Pará,1504208,comercial_publica_educativa,88,TV Camara (Brazil) (1080p),TVCamara.br@SD,stream3.camara.gov.br,https://stream3.camara.gov.br/tv1/manifest.m3u8
+scr-itapetim-pe-2607703,Itapetim,Pernambuco,2607703,retransmissora,82,TV+Pet,TVPlusPet.br@SD,stmv5.samcast.com.br,https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+scr-petrolandia-pe-2611002,Petrolândia,Pernambuco,2611002,retransmissora,82,TV+Pet,TVPlusPet.br@SD,stmv5.samcast.com.br,https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+scr-petrolina-pe-2611101,Petrolina,Pernambuco,2611101,comercial_publica_educativa,82,TV+Pet,TVPlusPet.br@SD,stmv5.samcast.com.br,https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+scr-porto-pi-2208502,Porto,Piauí,2208502,retransmissora,88,UniTV Porto Alegre (480p),UniTVPortoAlegre.br@SD,unitvaovivo.ufrgs.br:8080,http://unitvaovivo.ufrgs.br:8080/live.ogg
+scr-uniao-pi-2211100,União,Piauí,2211100,digital_geradora,88,Pluto TV Junior,PlutoTVJunior.us@BR,jmp2.uk,https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
+universitaria-tv-puc-rio-rj-rio-de-janeiro,TV PUC-Rio,RJ,Rio de Janeiro,universitaria,82,TVC-Rio,TVCRio.br@SD,video05.logicahost.com.br,https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+scr-acu-rn-2400208,Açu,Rio Grande do Norte,2400208,digital_geradora,88,Auge TV (720p),AugeTV.br@SD,cdn-tiva-video01-logicahost-com-br.smartbit.co,https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8
+scr-acu-rn-2400208,Açu,Rio Grande do Norte,2400208,digital_geradora,88,Canal Saude,CanalSaude.br@SD,eitv7.cdn.broadpeak.io,https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
+scr-acu-rn-2400208,Açu,Rio Grande do Norte,2400208,digital_geradora,88,Pluto TV Cine Comedia (United States) BR,PlutoTVCineComedia.us@BR,jmp2.uk,https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
+scr-acu-rn-2400208,Açu,Rio Grande do Norte,2400208,digital_geradora,88,Pluto TV Historia (United States),PlutoTVHistoria.us@BR,jmp2.uk,https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8
+scr-acu-rn-2400208,Açu,Rio Grande do Norte,2400208,digital_geradora,88,RecordTV Sao Paulo (720p) [Geo-blocked],RecordTVSaoPaulo.br@SD,playplusspo-lh.akamaihd.net,https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+scr-acu-rn-2400208,Açu,Rio Grande do Norte,2400208,digital_geradora,88,TV Assembleia Piaui,TVAssembleiaPiaui.br@SD,stmv1.srvstm.com,https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
+scr-acu-rn-2400208,Açu,Rio Grande do Norte,2400208,digital_geradora,88,TV Globo Sao Paulo (720p),TVGloboSaoPaulo.br@SD,170.84.165.204,http://170.84.165.204/Globo_HD/index.m3u8
+scr-itau-rn-2404903,Itaú,Rio Grande do Norte,2404903,retransmissora,88,Canal Metropolitano de Noticias,CanalMetropolitanodeNoticias.br@SD,stmv5.samcast.com.br,https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+scr-itau-rn-2404903,Itaú,Rio Grande do Norte,2404903,retransmissora,88,Pluto TV Minha Obsessao Favorita,PlutoTVMinhaObsessaoFavorita.us@BR,jmp2.uk,https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
+scr-itau-rn-2404903,Itaú,Rio Grande do Norte,2404903,retransmissora,88,RecordTV Itapoan (720p) [Geo-blocked],RecordTVItapoan.br@SD,playplussdr-lh.akamaihd.net,https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+scr-itau-rn-2404903,Itaú,Rio Grande do Norte,2404903,retransmissora,88,TV Comunitaria (360p),TVComunitaria.br@SD,5b7f3c45ab7c2.streamlock.net,https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
+scr-itau-rn-2404903,Itaú,Rio Grande do Norte,2404903,retransmissora,88,TV Digital Birigui (640p),TVDigitalBirigui.br@SD,wse01.logicahost.com.br:1935,http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+scr-itau-rn-2404903,Itaú,Rio Grande do Norte,2404903,retransmissora,88,TVitape (720p),TVitape.br@SD,stream01.msolutionbrasil.com.br,https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+scr-natal-rn-2408102,Natal,Rio Grande do Norte,2408102,comercial_publica_educativa,88,TV GRANDE NATAL HDTV BRASIL (1080p),TVGRANDENATALHDTVBRASIL.br@SD,tvgrandenatalhd.duckdns.org:8080,http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+scr-natal-rn-2408102,Natal,Rio Grande do Norte,2408102,comercial_publica_educativa,88,TV Natal (1080p),TVNatal.br@SD,185.228.163.146:8000,http://185.228.163.146:8000/play/a01y/index.m3u8
+scr-chiapetta-rs-4305405,Chiapetta,Rio Grande do Sul,4305405,retransmissora,82,TV+Pet,TVPlusPet.br@SD,stmv5.samcast.com.br,https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+scr-encantado-rs-4306809,Encantado,Rio Grande do Sul,4306809,retransmissora,88,O Encantador de Caes,OEncantadordeCaes.us@Brazil,jmp2.uk,https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
+scr-irai-rs-4310504,Iraí,Rio Grande do Sul,4310504,retransmissora,88,Pluto TV Cine Inspiracao,PlutoTVCineInspiracao.us@BR,jmp2.uk,https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
+scr-irai-rs-4310504,Iraí,Rio Grande do Sul,4310504,retransmissora,88,TV Fronteira (480i),TVFronteira.br@SD,tvfronteira.brasilstream.com.br,https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
+scr-nova-petropolis-rs-4313201,Nova Petrópolis,Rio Grande do Sul,4313201,retransmissora,82,TV+Pet,TVPlusPet.br@SD,stmv5.samcast.com.br,https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+scr-parai-rs-4314001,Paraí,Rio Grande do Sul,4314001,retransmissora,88,Cultura Para (720p),CulturaPara.br@SD,170.84.165.204,http://170.84.165.204/CANAL_21_HD/index.m3u8
+scr-parai-rs-4314001,Paraí,Rio Grande do Sul,4314001,retransmissora,88,RedeTV! Parana,RedeTVParana.br@SD,tv01.zas.media:1936,https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+scr-parai-rs-4314001,Paraí,Rio Grande do Sul,4314001,retransmissora,88,TV Grao Para (720p),TVGraoPara.br@SD,video01.kshost.com.br:4443,https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+scr-parai-rs-4314001,Paraí,Rio Grande do Sul,4314001,retransmissora,88,TV Paraense (720p),TVParaense.br@HD,video09.logicahost.com.br,https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
+scr-parai-rs-4314001,Paraí,Rio Grande do Sul,4314001,retransmissora,88,TV Parana Turismo (720p) [Not 24/7],TVParanaTurismo.br@SD,200.189.113.201,http://200.189.113.201/hls/tve.m3u8
+scr-passo-fundo-rs-4314100,Passo Fundo,Rio Grande do Sul,4314100,comercial_publica_educativa,88,TV Passo Fundo (720p),TVPassoFundo.br@SD,5a57bda70564a.streamlock.net,https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+scr-porto-alegre-rs-4314902,Porto Alegre,Rio Grande do Sul,4314902,comercial_publica_educativa,88,UniTV Porto Alegre (480p),UniTVPortoAlegre.br@SD,unitvaovivo.ufrgs.br:8080,http://unitvaovivo.ufrgs.br:8080/live.ogg
+scr-areal-rj-3300225,Areal,Rio de Janeiro,3300225,retransmissora,88,Pluto TV Vida Real,PlutoTVVidaReal.us@BR,jmp2.uk,https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
+scr-areal-rj-3300225,Areal,Rio de Janeiro,3300225,retransmissora,88,TV Vila Real (720p),TVVilaReal.br@SD,cdn.jmvstream.com,https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+scr-cabo-frio-rj-3300704,Cabo Frio,Rio de Janeiro,3300704,comercial_publica_educativa,88,Cabo Frio TV (720p),CaboFrioTV.br@SD,59f2354c05961.streamlock.net:1443,https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+scr-macae-rj-3302403,Macaé,Rio de Janeiro,3302403,comercial_publica_educativa,88,TV Diario Macapa (1080p) [Not 24/7],TVDiarioMacapa.br@SD,5ad482a77183d.streamlock.net,https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8
+scr-marica-rj-3302700,Maricá,Rio de Janeiro,3302700,digital_geradora,88,TV Mais Marica (1080p),TVMaisMarica.br@SD,5cf4a2c2512a2.streamlock.net,https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+scr-petropolis-rj-3303906,Petrópolis,Rio de Janeiro,3303906,comercial_publica_educativa,82,TV+Pet,TVPlusPet.br@SD,stmv5.samcast.com.br,https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+scr-pirai-rj-3304003,Piraí,Rio de Janeiro,3304003,retransmissora,88,Pluto TV Cine Inspiracao,PlutoTVCineInspiracao.us@BR,jmp2.uk,https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
+scr-rio-de-janeiro-rj-3304557,Rio de Janeiro,Rio de Janeiro,3304557,comercial_publica_educativa,88,Rede CNT Rio de Janeiro (720p),RedeCNTRiodeJaneiro.br@SD,45.162.64.114,http://45.162.64.114/CNT/index.m3u8
+scr-canta-rr-1400175,Cantá,Roraima,1400175,digital_geradora,88,O Encantador de Caes,OEncantadordeCaes.us@Brazil,jmp2.uk,https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
+universitaria-unisul-tv-sc-tubarao,Unisul TV,SC,Tubarão,universitaria,88,Unisul TV (720p),UnisulTV.br@SD,sitetv.brasilstream.com.br,https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+universitaria-tv-mackenzie-sp-sao-paulo,TV Mackenzie,SP,São Paulo,universitaria,88,TV Mackenzie (480p),TVMackenzie.br@SD,player.internetaovivo.com:8443,https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+scr-brusque-sc-4202909,Brusque,Santa Catarina,4202909,retransmissora,88,TV Brusque (720p),TVBrusque.br@SD,5ad482a77183d.streamlock.net,https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+scr-ita-sc-4208005,Itá,Santa Catarina,4208005,retransmissora,88,1001 Noites (720p) [Not 24/7],1001Noites.br@SD,cdn.jmvstream.com,https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+scr-ita-sc-4208005,Itá,Santa Catarina,4208005,retransmissora,88,Blitstv,Blitstv.br@SD,stmv1.transmissaodigital.com,https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
+scr-ita-sc-4208005,Itá,Santa Catarina,4208005,retransmissora,88,Canal Metropolitano de Noticias,CanalMetropolitanodeNoticias.br@SD,stmv5.samcast.com.br,https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+scr-ita-sc-4208005,Itá,Santa Catarina,4208005,retransmissora,88,Fala Litoral (480p),FalaLitoral.br@SD,5c483b9d1019c.streamlock.net,https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
+scr-ita-sc-4208005,Itá,Santa Catarina,4208005,retransmissora,88,MTV Catfish (United States) BR (720p),MTVCatfish.us@BR,jmp2.uk,https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
+scr-ita-sc-4208005,Itá,Santa Catarina,4208005,retransmissora,88,MTV Dating (United States),MTVDating.us@BR,jmp2.uk,https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
+scr-ita-sc-4208005,Itá,Santa Catarina,4208005,retransmissora,88,MTV Reality (United States) (720p),MTVReality.us@BR,jmp2.uk,https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
+scr-ita-sc-4208005,Itá,Santa Catarina,4208005,retransmissora,88,MacGyver (United States),MacGyver.us@BR,jmp2.uk,https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
+scr-ita-sc-4208005,Itá,Santa Catarina,4208005,retransmissora,88,NCIS (United States),NCIS.us@BR,jmp2.uk,https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
+scr-ita-sc-4208005,Itá,Santa Catarina,4208005,retransmissora,88,Nick Jr. Club (United States) BR (720p),NickJrClub.us@BR,jmp2.uk,https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
+scr-itapoa-sc-4208450,Itapoá,Santa Catarina,4208450,retransmissora,88,RecordTV Itapoan (720p) [Geo-blocked],RecordTVItapoan.br@SD,playplussdr-lh.akamaihd.net,https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+scr-petrolandia-sc-4212700,Petrolândia,Santa Catarina,4212700,retransmissora,82,TV+Pet,TVPlusPet.br@SD,stmv5.samcast.com.br,https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+scr-timbo-sc-4218202,Timbó,Santa Catarina,4218202,retransmissora,88,TV Ra Tim Bum (720p),TVRaTimBum.br@SD,45.177.114.115,http://45.177.114.115/TV_RA_TIM_BUM/index.m3u8
+scr-aguai-sp-3500303,Aguaí,São Paulo,3500303,retransmissora_digital,88,TV Encontro das Aguas,TVEncontrodasAguas.br@SD,stmv7.samcast.com.br,https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
+scr-aparecida-sp-3502507,Aparecida,São Paulo,3502507,comercial_publica_educativa,88,TV Aparecida (720p),TVAparecida.br@SD,45.162.64.114,http://45.162.64.114/TV_APARECIDA/index.m3u8
+scr-apiai-sp-3502705,Apiaí,São Paulo,3502705,digital_geradora,88,TV Assembleia Piaui,TVAssembleiaPiaui.br@SD,stmv1.srvstm.com,https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
+scr-avai-sp-3504305,Avaí,São Paulo,3504305,retransmissora,88,Avatar: A lenda de Aang,AvatarAlendadeAang.us@BR,jmp2.uk,https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
+scr-birigui-sp-3506508,Birigui,São Paulo,3506508,digital_geradora,88,TV Birigui (640p),TVBirigui.br@SD,59f2354c05961.streamlock.net:1443,https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+scr-birigui-sp-3506508,Birigui,São Paulo,3506508,digital_geradora,88,TV Digital Birigui (640p),TVDigitalBirigui.br@SD,wse01.logicahost.com.br:1935,http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+scr-guaira-sp-3517406,Guaíra,São Paulo,3517406,retransmissora,88,TV Guara (720p) [Not 24/7],TVGuara.br@SD,video02.logicahost.com.br,https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+scr-itai-sp-3521804,Itaí,São Paulo,3521804,retransmissora,88,Canal Metropolitano de Noticias,CanalMetropolitanodeNoticias.br@SD,stmv5.samcast.com.br,https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+scr-itai-sp-3521804,Itaí,São Paulo,3521804,retransmissora,88,Pluto TV Minha Obsessao Favorita,PlutoTVMinhaObsessaoFavorita.us@BR,jmp2.uk,https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
+scr-itai-sp-3521804,Itaí,São Paulo,3521804,retransmissora,88,RecordTV Itapoan (720p) [Geo-blocked],RecordTVItapoan.br@SD,playplussdr-lh.akamaihd.net,https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+scr-itai-sp-3521804,Itaí,São Paulo,3521804,retransmissora,88,TV Comunitaria (360p),TVComunitaria.br@SD,5b7f3c45ab7c2.streamlock.net,https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
+scr-itai-sp-3521804,Itaí,São Paulo,3521804,retransmissora,88,TV Digital Birigui (640p),TVDigitalBirigui.br@SD,wse01.logicahost.com.br:1935,http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+scr-itai-sp-3521804,Itaí,São Paulo,3521804,retransmissora,88,TVitape (720p),TVitape.br@SD,stream01.msolutionbrasil.com.br,https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+scr-itapetininga-sp-3522307,Itapetininga,São Paulo,3522307,comercial_publica_educativa,82,TV+Pet,TVPlusPet.br@SD,stmv5.samcast.com.br,https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+scr-itu-sp-3523909,Itu,São Paulo,3523909,comercial_publica_educativa,88,Plenitude TV,PlenitudeTV.br@SD,strv.painelvox.top,https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
+scr-jau-sp-3525300,Jaú,São Paulo,3525300,comercial_publica_educativa,88,Bob Esponja Calca Quadrada (720p),BobEsponjaCalcaQuadrada.us@BR,jmp2.uk,https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
+scr-jau-sp-3525300,Jaú,São Paulo,3525300,comercial_publica_educativa,88,NickOnline Bob Esponja (720p) [Not 24/7],NickOnlineBobEsponja.br@HD,bob.x1colegal.com,https://bob.x1colegal.com/hls/stream.m3u8
+scr-jau-sp-3525300,Jaú,São Paulo,3525300,comercial_publica_educativa,88,Rede CNT Rio de Janeiro (720p),RedeCNTRiodeJaneiro.br@SD,45.162.64.114,http://45.162.64.114/CNT/index.m3u8
+scr-jau-sp-3525300,Jaú,São Paulo,3525300,comercial_publica_educativa,88,VEJA+ TV (1080p),VEJAPlusTV.br@HD,gpa-vja.otteravision.com,https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
+scr-jundiai-sp-3525904,Jundiaí,São Paulo,3525904,comercial_publica_educativa,88,Canal 25 Jundiai (720p),Canal25Jundiai.br@SD,cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co,https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8
+scr-leme-sp-3526704,Leme,São Paulo,3526704,retransmissora,88,Elemental Channel (1080p),ElementalChannel.br@SD,5d82644094cc0.streamlock.net,https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+scr-quadra-sp-3541653,Quadra,São Paulo,3541653,retransmissora_digital,88,Bob Esponja Calca Quadrada (720p),BobEsponjaCalcaQuadrada.us@BR,jmp2.uk,https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
+scr-socorro-sp-3552106,Socorro,São Paulo,3552106,retransmissora,88,Pronto-socorro: Historias De Emergencia,ProntosocorroHistoriasDeEmergencia.us@Brazil,jmp2.uk,https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
+scr-uru-sp-3555901,Uru,São Paulo,3555901,retransmissora_digital,88,TV Curuca (360p),TVCuruca.br@SD,stmv1.srvif.com,https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+scr-guarai-to-1709302,Guaraí,Tocantins,1709302,digital_geradora,88,TV Guara (720p) [Not 24/7],TVGuara.br@SD,video02.logicahost.com.br,https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+scr-parana-to-1716208,Paranã,Tocantins,1716208,retransmissora,88,RedeTV! Parana,RedeTVParana.br@SD,tv01.zas.media:1936,https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+scr-parana-to-1716208,Paranã,Tocantins,1716208,retransmissora,88,TV Parana Turismo (720p) [Not 24/7],TVParanaTurismo.br@SD,200.189.113.201,http://200.189.113.201/hls/tve.m3u8

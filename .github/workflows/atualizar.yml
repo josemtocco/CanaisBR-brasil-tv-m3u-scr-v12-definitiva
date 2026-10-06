@@ -1,1 +1,65 @@
+name: Atualizar Brasil TV M3U
 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "7 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Testar projeto
+        run: |
+          python tests/test_sintaxe.py
+          python tests/test_importador.py
+          python tests/test_mapatvu_catalogo.py
+          python tests/test_streams_m3u.py
+          python tests/test_candidatos_iptv_org.py
+          python tests/test_candidato_sem_catalogo.py
+
+      - name: Importar e cruzar SCR do MCom
+        env:
+          SCR_TIMEOUT: "90"
+          SCR_RETRIES: "2"
+        continue-on-error: true
+        run: python scripts/importar_scr.py
+
+      - name: Atualizar TVs universitárias
+        run: python scripts/coletar_mapatvu.py
+
+      - name: Descobrir candidatos de streams automaticamente
+        continue-on-error: true
+        run: python scripts/descobrir_iptv_org.py
+
+      - name: Preservar e incorporar candidatos IPTV-org
+        continue-on-error: true
+        run: python scripts/incorporar_candidatos.py
+
+      - name: Promover e validar streams (v10 + candidatos acumulados)
+        run: python scripts/promover_streams.py
+
+      - name: Validar cadastro
+        run: python scripts/validar.py
+
+      - name: Gerar M3U
+        run: python scripts/gerar_m3u.py
+
+      - name: Commit alterações
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data output
+          git diff --cached --quiet || git commit -m "Atualizar catálogo SCR e playlists"
+          git push

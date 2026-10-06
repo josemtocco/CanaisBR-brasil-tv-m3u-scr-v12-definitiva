@@ -1,5 +1,121 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="A&E Latin America Brazil (720p)" tvg-id="AELatinAmerica.us@Brazil" group-title="Retransmissora",A&E Latin America Brazil (720p)
+http://170.83.16.50/AeE/index.m3u8
+#EXTINF:-1 tvg-name="Adult Swim Latin America Brazil (720p)" tvg-id="AdultSwimLatinAmerica.us@Brazil" group-title="Retransmissora",Adult Swim Latin America Brazil (720p)
+http://168.197.104.22/ADULT_SWIM/index.m3u8
+#EXTINF:-1 tvg-name="AgroCanal (720p)" tvg-id="AgroCanal.br@SD" group-title="Retransmissora",AgroCanal (720p)
+http://45.162.64.114/AGRO_CANAL/index.m3u8
+#EXTINF:-1 tvg-name="AMC Latin America Brazil (720p)" tvg-id="AMCLatinAmerica.us@Brazil" group-title="Retransmissora",AMC Latin America Brazil (720p)
+http://170.83.49.66:8083/AMCHD/index.m3u8
+#EXTINF:-1 tvg-name="Araruna TV" tvg-id="ArarunaTV.br@SD" group-title="Retransmissora",Araruna TV
+https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bob Esponja Calca Quadrada (720p)" tvg-id="BobEsponjaCalcaQuadrada.us@BR" group-title="Comercial Publica Educativa",Bob Esponja Calca Quadrada (720p)
+https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
+#EXTINF:-1 tvg-name="Canal 38 (720p)" tvg-id="Canal38.br@SD" group-title="Retransmissora",Canal 38 (720p)
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Educacao (720p)" tvg-id="CanalEducacao.br@SD" group-title="Retransmissora",Canal Educacao (720p)
+http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
+#EXTINF:-1 tvg-name="Canal FDR" tvg-id="CanalFDR.br@SD" group-title="Retransmissora",Canal FDR
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:-1 tvg-name="Canal Futura (720p)" tvg-id="CanalFutura.br@SD" group-title="Retransmissora",Canal Futura (720p)
+http://45.162.64.114/FUTURA/index.m3u8
+#EXTINF:-1 tvg-name="Canal Metropolitano de Noticias" tvg-id="CanalMetropolitanodeNoticias.br@SD" group-title="Retransmissora",Canal Metropolitano de Noticias
+https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+#EXTINF:-1 tvg-name="Cinturao Verde" tvg-id="CinturaoVerde.br@SD" group-title="Retransmissora",Cinturao Verde
+https://play.redecinturaoverde.com.br/playlist.m3u8
+#EXTINF:-1 tvg-name="COM Brasil (720p)" tvg-id="COMBrasil.br@SD" group-title="Publica",COM Brasil (720p)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+#EXTINF:-1 tvg-name="ConecTV Brasil (720p)" tvg-id="ConecTVBrasil.br@SD" group-title="Publica",ConecTV Brasil (720p)
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-name="Fala Litoral (480p)" tvg-id="FalaLitoral.br@SD" group-title="Retransmissora",Fala Litoral (480p)
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+ Portuguese (720p)" tvg-id="FIFAPlus.uk@Portuguese" group-title="Retransmissora",FIFA+ Portuguese (720p)
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="Lifetime Latin America Brazil (720p)" tvg-id="LifetimeLatinAmerica.us@Brazil" group-title="Retransmissora",Lifetime Latin America Brazil (720p)
+http://170.83.16.50/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/129.0.0.0 Safari/537.36' group-title='Undefined',TV Bahia (1080i)" tvg-id="TVBahia.br@HD" group-title="Universitaria",like Gecko) Chrome/129.0.0.0 Safari/537.36" group-title="Undefined",TV Bahia (1080i)
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36' group-title='Kids',Nickelodeon (Brazil) (480p)" tvg-id="Nickelodeon.br@SD" group-title="Universitaria",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon (Brazil) (480p)
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-name="Loading (720p)" tvg-id="Loading.br@SD" group-title="Retransmissora",Loading (720p)
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-name="MBC Brasil TV" tvg-id="MBCBrasilTV.br@SD" group-title="Publica",MBC Brasil TV
+https://play.mbcbrasil.tv.br/playlist.m3u8
+#EXTINF:-1 tvg-name="MTV Catfish (United States) BR (720p)" tvg-id="MTVCatfish.us@BR" group-title="Retransmissora",MTV Catfish (United States) BR (720p)
+https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
+#EXTINF:-1 tvg-name="MTV Classic BR (720p)" tvg-id="MTVClassic.us@BR" group-title="Retransmissora",MTV Classic BR (720p)
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+#EXTINF:-1 tvg-name="Music Box Brazil (720p)" tvg-id="MusicBoxBrazil.br@SD" group-title="Retransmissora",Music Box Brazil (720p)
+http://168.197.104.22/MUSIC/index.m3u8
+#EXTINF:-1 tvg-name="Nova Era TV (1080p) [Not 24/7]" tvg-id="NovaEraTV.br@SD" group-title="Retransmissora",Nova Era TV (1080p) [Not 24/7]
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:-1 tvg-name="Petlovers TV" tvg-id="PetloversTV.br@SD" group-title="Retransmissora",Petlovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 tvg-name="Plenitude TV" tvg-id="PlenitudeTV.br@SD" group-title="Comercial Publica Educativa",Plenitude TV
+https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
+#EXTINF:-1 tvg-name="Rede CNT Rio de Janeiro (720p)" tvg-id="RedeCNTRiodeJaneiro.br@SD" group-title="Comercial Publica Educativa",Rede CNT Rio de Janeiro (720p)
+http://45.162.64.114/CNT/index.m3u8
+#EXTINF:-1 tvg-name="Rede Minas (720p)" tvg-id="RedeMinas.br@SD" group-title="Retransmissora",Rede Minas (720p)
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 tvg-name="RedeTV! Parana" tvg-id="RedeTVParana.br@SD" group-title="Retransmissora",RedeTV! Parana
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-name="Studio Universal Latin America Brazil (720p)" tvg-id="StudioUniversalLatinAmerica.us@Brazil" group-title="Retransmissora",Studio Universal Latin America Brazil (720p)
+http://187.102.210.46/universo/index.m3u8
+#EXTINF:-1 tvg-name="Terra Viva (720p)" tvg-id="TerraViva.br@SD" group-title="Retransmissora",Terra Viva (720p)
+http://45.162.64.114/TERRAVIVA/index.m3u8
+#EXTINF:-1 tvg-name="TV Alternativa (410p)" tvg-id="TVAlternativa.br@SD" group-title="Retransmissora",TV Alternativa (410p)
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Aparecida (720p)" tvg-id="TVAparecida.br@SD" group-title="Comercial Publica Educativa",TV Aparecida (720p)
+http://45.162.64.114/TV_APARECIDA/index.m3u8
+#EXTINF:-1 tvg-name="TV Brasil (720p)" tvg-id="TVBrasil.br@SD" group-title="Publica",TV Brasil (720p)
+http://45.162.64.114/TV_BRASIL/index.m3u8
 #EXTINF:-1 tvg-name="TV Brasil" tvg-id="publica-tv-brasil-df-brasilia" group-title="Publica",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-name="TV Câmara" tvg-id="legislativa-federal-tv-camara-df-brasilia" group-title="Legislativa Federal",TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-name="TV Brusque (720p)" tvg-id="TVBrusque.br@SD" group-title="Retransmissora",TV Brusque (720p)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Cidade Verde Cuiaba" tvg-id="TVCidadeVerdeCuiaba.br@SD" group-title="Comercial Publica Educativa",TV Cidade Verde Cuiaba
+https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+#EXTINF:-1 tvg-name="TV Clube (720p)" tvg-id="TVClube.br@SD" group-title="Comercial Publica Educativa",TV Clube (720p)
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Comunitaria (360p)" tvg-id="TVComunitaria.br@SD" group-title="Retransmissora",TV Comunitaria (360p)
+https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-name="TV Curuca (360p)" tvg-id="TVCuruca.br@SD" group-title="Retransmissora",TV Curuca (360p)
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Fronteira (480i)" tvg-id="TVFronteira.br@SD" group-title="Retransmissora",TV Fronteira (480i)
+https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
+#EXTINF:-1 tvg-name="TV GRANDE NATAL HDTV BRASIL (1080p)" tvg-id="TVGRANDENATALHDTVBRASIL.br@SD" group-title="Publica",TV GRANDE NATAL HDTV BRASIL (1080p)
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 tvg-name="TV Guara (720p) [Not 24/7]" tvg-id="TVGuara.br@SD" group-title="Retransmissora",TV Guara (720p) [Not 24/7]
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Mais Marica (1080p)" tvg-id="TVMaisMarica.br@SD" group-title="Retransmissora Digital",TV Mais Marica (1080p)
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Marajoara (720p)" tvg-id="TVMarajoara.br@SD" group-title="Retransmissora",TV Marajoara (720p)
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Natal (1080p)" tvg-id="TVNatal.br@SD" group-title="Comercial Publica Educativa",TV Natal (1080p)
+http://185.228.163.146:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-name="TV Paraense (720p)" tvg-id="TVParaense.br@HD" group-title="Retransmissora",TV Paraense (720p)
+https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
+#EXTINF:-1 tvg-name="TV Parana Turismo (720p) [Not 24/7]" tvg-id="TVParanaTurismo.br@SD" group-title="Retransmissora",TV Parana Turismo (720p) [Not 24/7]
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-name="TV Passo Fundo (720p)" tvg-id="TVPassoFundo.br@SD" group-title="Comercial Publica Educativa",TV Passo Fundo (720p)
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Senado (Brazil) (720p)" tvg-id="TVSenado.br@SD" group-title="Legislativa Federal",TV Senado (Brazil) (720p)
+http://45.162.64.114/TV_SENADO/index.m3u8
+#EXTINF:-1 tvg-name="TV UFOP (1080p)" tvg-id="TVUFOP.br@HD" group-title="Universitaria",TV UFOP (1080p)
+https://app.tvufop.com.br/hls/tvufop.m3u8
+#EXTINF:-1 tvg-name="TV Universal (480p)" tvg-id="TVUniversal.br@SD" group-title="Retransmissora",TV Universal (480p)
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Vila Real (720p)" tvg-id="TVVilaReal.br@SD" group-title="Retransmissora",TV Vila Real (720p)
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-name="TV+Pet" tvg-id="TVPlusPet.br@SD" group-title="Digital Geradora",TV+Pet
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+#EXTINF:-1 tvg-name="TVC-Rio" tvg-id="TVCRio.br@SD" group-title="Universitaria",TVC-Rio
+https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+#EXTINF:-1 tvg-name="TVCOM Maceio (480p)" tvg-id="TVCOMMaceio.br@SD" group-title="Comercial Publica Educativa",TVCOM Maceio (480p)
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+#EXTINF:-1 tvg-name="TVE RS (1080p)" tvg-id="TVERS.br@SD" group-title="Retransmissora",TVE RS (1080p)
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-name="TVitape (720p)" tvg-id="TVitape.br@SD" group-title="Retransmissora",TVitape (720p)
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 tvg-name="VEJA+ TV (1080p)" tvg-id="VEJAPlusTV.br@HD" group-title="Comercial Publica Educativa",VEJA+ TV (1080p)
+https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8

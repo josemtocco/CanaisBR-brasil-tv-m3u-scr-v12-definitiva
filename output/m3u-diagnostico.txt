@@ -1,7 +1,7 @@
 Emissoras no catálogo: 4515
-Streams no CSV: 2
-Streams aprovados para M3U: 2
-Entradas geradas: 2
+Streams no CSV: 60
+Streams aprovados para M3U: 60
+Entradas geradas: 60
 Streams sem emissora correspondente: 0
-Candidatos IPTV-org acumulados: 215
-Arquivo principal: /mnt/data/v12work/output/brasil-tv.m3u
+Candidatos IPTV-org acumulados: 129
+Arquivo principal: /home/runner/work/CanaisBR-brasil-tv-m3u-scr-v12-definitiva/CanaisBR-brasil-tv-m3u-scr-v12-definitiva/output/brasil-tv.m3u
